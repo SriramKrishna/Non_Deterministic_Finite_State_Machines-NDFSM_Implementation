@@ -1,6 +1,6 @@
-The execution and the result of the assignment:
 
-There were 3 examples asked to be demonstrated ,so i have the 3 files for that.
+
+The files used for execution and the result of NDFSM Algorithm Implementation:
 
 Automation files path: 
 1)515.txt
